@@ -33,5 +33,5 @@ pero esta bie ya tengo cabecerea
 utimo cambio en cabeceras
 ya no mas *****
 ???
-..
->>>>>>> cabecera
+
+<<<<<<<<<<<<<<<Este es mi footer terminado >>>>>>>>>>>>>>>>>
