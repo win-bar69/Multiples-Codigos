@@ -1,3 +1,5 @@
+<<<<<<<<<<<<estos cambios son los del header>>>>>>>>>>
+
 hola mundo
 este es mi nuevo archivo en git
 con el ado probando como opera este tema
@@ -34,4 +36,6 @@ utimo cambio en cabeceras
 ya no mas *****
 ???
 ..
->>>>>>> cabecera
+
+
+
