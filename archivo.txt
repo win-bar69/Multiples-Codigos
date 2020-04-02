@@ -21,4 +21,17 @@ no lo se ?
 
 tanks
 
+<<<<<<< HEAD
 esctos cambios son en master
+=======
+ahora ando probando las cabeceras
+con checkout
+
+pero no veo el cambio
+
+pero esta bie ya tengo cabecerea
+utimo cambio en cabeceras
+ya no mas *****
+???
+..
+>>>>>>> cabecera
