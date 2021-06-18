@@ -1,2 +1,2 @@
 # Multiples Códigos
-publicación de programas minimos en Python
+publicación de programas basicos en Python
