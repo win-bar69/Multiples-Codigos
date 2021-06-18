@@ -1,2 +1,2 @@
-# prueba1
-mi primera publicación con git
+# Multiples Códigos
+publicación de programas minimos en Python
