@@ -27,7 +27,7 @@ elif opcion == '3' :
     conversor("Mexicanos", 24)
 
 elif opcion == '4' :
-    conversor("Peruano", 3.8) 
+    conversor("Peruanos", 3.8) 
 
 else:
     print ("Selecciona una opción valida 😡")
